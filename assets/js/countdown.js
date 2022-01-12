@@ -5,10 +5,11 @@
         day = hour * 24;
 
     let birthday = "JAN 07, 2022 00:00:00",
-        countDown = new Date(birthday).getTime(),
-        x = setInterval(function () {
+        //countDown = new Date(birthday).getTime(),
+        countDown = new Date().getTime(),
+        //x = setInterval(function () {
 
-            let now = new Date().getTime(),
+            now = new Date().getTime(),
                 distance = countDown - now;
 
             document.getElementById("days").innerText = Math.floor(distance / (day)),
@@ -26,8 +27,8 @@
                 countdown.style.display = "none";
                 content.style.display = "block";
 
-                clearInterval(x);
+                //clearInterval(x);
             }
             //seconds
-        }, 0)
+        //}, 0)
 }());
