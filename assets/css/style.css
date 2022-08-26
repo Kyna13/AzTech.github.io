@@ -59,8 +59,11 @@ body {
   align-items: center;
   padding-top: 50px;
   margin-bottom: 0;
+  color:cyan;
 }
-
+#2{
+color:hotpink;
+}
 .desc {
   font-size: 20px;
   text-align: center;
