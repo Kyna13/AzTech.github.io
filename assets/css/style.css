@@ -88,7 +88,12 @@ color:#eb1cb4 ;
     text-align: center;
   }
 }
-
+@media (min-width: 1507px) and (max-width: 1543px) {
+  .heading {
+    font-size: 150px;
+    width: 100%;
+  }
+}
 @media (min-width: 921px) and (max-width: 1023px) {
   .heading {
     font-size: 80px;
