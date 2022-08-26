@@ -62,7 +62,7 @@ body {
   color:cyan;
 }
  .two{
-color:#FF007F;
+color:#eb1cb4 ;
 }
 .desc {
   font-size: 20px;
@@ -193,6 +193,7 @@ color:#FF007F;
   font-family: "Poppins";
   text-align: center;
   padding-top: 30px;
+  color:cyan;
 }
 
 @media (max-width: 768px) {
