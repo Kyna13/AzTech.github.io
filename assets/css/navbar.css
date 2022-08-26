@@ -33,7 +33,7 @@ a.nav-link {
     left: 0;
     right: 0;
     margin: auto;
-    background-color: #fff;
+    background-color: cyan;
     color: transparent;
     width: 0%;
     content: ".";
@@ -60,7 +60,7 @@ a.nav-link {
     left: 0;
     right: 0;
     margin: auto;
-    background-color: #fff;
+    background-color: cyan;
     color: transparent;
     width: 0%;
     content: ".";
@@ -100,9 +100,9 @@ a.nav-link {
 }
 
 .rbtn {
-  border: 3px solid white;
+  border: 3px solid cyan;
   text-decoration: None;
-  color: white;
+  color: cyan;
   padding: 10px;
   transition: ease-in 0.2s;
   font-family: "Poppins";
@@ -111,7 +111,7 @@ a.nav-link {
 }
 
 .rbtn:hover {
-  background-color: white;
+  background-color: cyan;
 
   text-decoration: none;
   color: #171717;
