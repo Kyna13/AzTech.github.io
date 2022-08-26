@@ -76,7 +76,7 @@ a.nav-link {
 }
 
 .navbar.scrolled {
-  background-color: #171717;
+  background-color: #050b17;
   opacity: 0.9;
   transition: background 600ms;
 }
@@ -114,7 +114,7 @@ a.nav-link {
   background-color: cyan;
 
   text-decoration: none;
-  color: #171717;
+  color: #050b17;
   padding: 10px;
 }
 
