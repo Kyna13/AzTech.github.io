@@ -8,24 +8,24 @@ nav {
 ul li {
   font-size: 18px;
   padding: 0 0.8rem;
-  color: cyan;
+  color:white;
 }
 
 a.nav-link {
   display: inline-block;
-  color: cyan;
+  color: white;
   text-decoration: none;
   font-weight: 600;
 }
 
 @media (min-width: 1024px) {
   .navbar .navbar-nav .nav-link {
-    color: cyan ;
+    color: white ;
     font-size: 1.1em;
     position: relative;
   }
   .navbar .navbar-nav .nav-link:hover {
-    color: cyan;
+    color: white;
   }
   .navbar .navbar-nav .nav-link::after {
     position: absolute;
@@ -33,7 +33,7 @@ a.nav-link {
     left: 0;
     right: 0;
     margin: auto;
-    background-color: cyan;
+    background-color: white;
     color: transparent;
     width: 0%;
     content: ".";
@@ -47,12 +47,12 @@ a.nav-link {
 
 @media (max-width: 1023px) {
   .navbar .navbar-nav .nav-link {
-    color: cyan;
+    color: white;
     font-size: 1.1em;
     position: relative;
   }
   .navbar .navbar-nav .nav-link:hover {
-    color: cyan;
+    color: white;
   }
   .navbar .navbar-nav .nav-link::after {
     position: absolute;
@@ -60,7 +60,7 @@ a.nav-link {
     left: 0;
     right: 0;
     margin: auto;
-    background-color: cyan;
+    background-color: white;
     color: transparent;
     width: 0%;
     content: ".";
@@ -96,13 +96,13 @@ a.nav-link {
 }*/
 .nav-link:hover {
   --d: 15px;
-  color: cyan;
+  color: white;
 }
 
 .rbtn {
-  border: 3px solid cyan;
+  border: 3px solid white;
   text-decoration: None;
-  color: cyan;
+  color: white;
   padding: 10px;
   transition: ease-in 0.2s;
   font-family: "Poppins";
@@ -111,7 +111,7 @@ a.nav-link {
 }
 
 .rbtn:hover {
-  background-color: cyan;
+  background-color: white;
 
   text-decoration: none;
   color: #050b17;
