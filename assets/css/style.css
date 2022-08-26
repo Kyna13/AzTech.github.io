@@ -67,6 +67,7 @@ color:hotpink;
 .desc {
   font-size: 20px;
   text-align: center;
+  color:cyan;
 }
 
 @media (max-width: 920px) {
