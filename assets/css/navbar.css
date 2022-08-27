@@ -96,7 +96,7 @@ a.nav-link {
 }*/
 .nav-link:hover {
   --d: 15px;
-  color: cyan;
+  color: #eb1cb4;
 }
 
 .rbtn {
