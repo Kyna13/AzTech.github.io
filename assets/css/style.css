@@ -300,8 +300,8 @@ iframe {
   position: relative;
   margin: 20px;
   display: flex;
-  min-width: 330px -60px;
-  max-width: 330px;
+  min-width: 200px -60px;
+  max-width: 200px;
   width: 100%;
   color: #ffffff;
   text-align: center;
