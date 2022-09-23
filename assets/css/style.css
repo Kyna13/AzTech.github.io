@@ -454,7 +454,9 @@ iframe {
 }
 @media (min-width: 400px) and (max-width: 424px) {
   .snip1273 {
-    max-width: 320px;
+    max-width: 300px;
+    margin-left: auto;
+    margin-right:auto;
   }
 }
 
@@ -470,25 +472,24 @@ iframe {
   .snip1273 {
     margin-left: auto;
     margin-right: auto;
-    width: 100%;
+    max-width: 100px;
   }
 }
 
 @media (width: 768px) {
   .snip1273 {
-    max-width: 330px;
+    max-width: 100px;
     margin-left:auto;
     margin-right:auto;
   }
 }
 @media (width: 1024px) {
   .snip1273 {
-    max-width: 350px;
+    max-width: 250px;
     margin-left:auto;
     margin-right:auto;
   }
 }
-
 
 /* CORE SECTION */
 .uk-card {
