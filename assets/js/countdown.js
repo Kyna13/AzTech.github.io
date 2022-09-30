@@ -6,9 +6,9 @@
         day = hour * 24;
 
     let birthday = "OCT 21, 2022 00:00:00",
-        //countDown = new Date(birthday).getTime(),
+        countDown = new Date(birthday).getTime(),
         countDown = new Date().getTime(),
-        //x = setInterval(function () {
+        x = setInterval(function () {
 
             now = new Date().getTime(),
                 distance = countDown - now;
@@ -28,8 +28,8 @@
                 countdown.style.display = "none";
                 content.style.display = "block";
 
-                //clearInterval(x);
+                clearInterval(x);
             }
-            //seconds
-        //}, 0)
+            seconds
+        }, 0)
 }());
