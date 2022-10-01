@@ -503,7 +503,7 @@ iframe {
 .uk-card-body {
   padding: 10px;
   text-align: center;
-  background-color: #242424;
+  background-color: rgb(6, 6, 20);
 }
 
 .core p i:hover {
