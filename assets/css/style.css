@@ -245,7 +245,7 @@ color:#eb1cb4 ;
   padding: 10px 20px;
   letter-spacing: 4px;
   border: none;
-  background-color: #2e2e2e;
+  background-color: #050b17;
   font-weight: 600;
   transition: ease-out 0.3s;
   box-shadow: inset 0 0 0 0 #fff;
@@ -262,16 +262,16 @@ color:#eb1cb4 ;
   color: #fff;
 }
 
-.invite-btn a:hover,
+/* .invite-btn a:hover,
 .register-btn a:hover {
   text-decoration: none;
   color: #171717;
-}
+} */
 
 .invite-btn:hover,
 .register-btn:hover {
   box-shadow: inset 200px 0 0 0 #fff;
-  color: #171717;
+  color: cyan;
 }
 
 /* TEASER */
