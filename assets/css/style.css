@@ -239,16 +239,16 @@ color:#eb1cb4 ;
 .invite-btn,
 .register-btn {
   font-size: 20px;
-  color: cyan;
+  color: #171717;
 
   margin-right: 5px;
   padding: 10px 20px;
   letter-spacing: 4px;
   border: none;
-  background-color: #050b17;
+  background-color: #060b19;
   font-weight: 600;
   transition: ease-out 0.3s;
-  box-shadow: inset 0 0 0 0 #fff;
+  box-shadow: inset 0 0 0 0 cyan;
   border-radius: 4px;
   outline: none;
   width: 200px;
@@ -259,7 +259,7 @@ color:#eb1cb4 ;
 .invite-btn a,
 .register-btn a {
   text-decoration: none;
-  color: #fff;
+  color: #171717;
 }
 
 /* .invite-btn a:hover,
@@ -270,7 +270,7 @@ color:#eb1cb4 ;
 
 .invite-btn:hover,
 .register-btn:hover {
-  box-shadow: inset 200px 0 0 0 cyan;
+  box-shadow: inset 200px 0 0 0 #eb1cb4;
   color: cyan;
 }
 
