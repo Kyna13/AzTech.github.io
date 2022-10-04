@@ -321,6 +321,7 @@ iframe {
   vertical-align: top;
   height: 200px;
   border-radius: 10px;
+  margin: 0 auto;
 }
 .snip1273 figcaption {
   position: absolute;
